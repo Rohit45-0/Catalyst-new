@@ -1,0 +1,356 @@
+{
+  "timestamp": "2026-02-01T06:12:52.154256",
+  "dry_run": false,
+  "skip_video": false,
+  "phases": {
+    "category": {
+      "category": "fashion_apparel",
+      "subcategory": "men's shirts",
+      "confidence": 0.95,
+      "reasoning": "The product is a red short-sleeve shirt, which clearly falls under the fashion and apparel category. The design and style suggest it is a men's shirt."
+    },
+    "vision": {
+      "product_name": "Crimson Contrast Mandarin Collar Polo",
+      "category": "Fashion",
+      "primary_colors": [
+        "Red",
+        "Navy",
+        "White"
+      ],
+      "color_psychology": "The bold red signifies energy and confidence, while the navy accents add a touch of sophistication. The white elements provide a crisp and clean balance.",
+      "material": "Cotton blend (likely a soft and breathable fabric)",
+      "key_features": [
+        "Mandarin-style collar with a unique button placket",
+        "Red base with understated navy sleeve cuffs",
+        "Contrasting white inner placket with red polka-dot details",
+        "Short-sleeve design for casual wear",
+        "Tailored fit for a polished look"
+      ],
+      "target_demographic": "Men, ages 18-35, urban professionals, or style-conscious individuals seeking versatile casual wear.",
+      "visual_style": "Modern and bold with subtle playful details",
+      "lifestyle_context": "Weekend outings, casual office settings, or smart-casual social gatherings",
+      "selling_points": [
+        "Striking red color for a bold, confident look",
+        "Playful polka-dot inner placket detail for added uniqueness",
+        "Mandarin collar for a modern twist on classic polo design",
+        "Tailored fit ensures a clean, sophisticated silhouette",
+        "Versatile piece that transitions between casual and smart-casual settings"
+      ],
+      "visual_hooks": [
+        "Eye-catching contrast between the red base and navy sleeve cuffs",
+        "Polka-dot detailing on the inner placket adds a playful yet refined touch",
+        "Mandarin collar elevates the casual polo to a modern fashion statement"
+      ]
+    },
+    "market": {
+      "results": [
+        {
+          "title": "Contrast Collar Golf Polo | DICK's Sporting Goods",
+          "url": "https://www.dickssportinggoods.com/a/contrast-collar-golf-polo-0rtz01a.html",
+          "description": "5 David0078 Bought for my son in law who absolutely loves the fit and look! ... Golf Polo CollarZip Collar Golf PoloClassic Collar Golf ShirtsMandarin Collar Golf PoloClassic Golf PoloCollar Stays PoloBlade Collar PolosSolid Golf PoloColor Block Golf PoloBright Golf PoloPattern Golf PoloCasual Golf PoloSelf Fabric Collar PoloTailored Golf PoloCool Golf PoloSleeveless Pique Golf PoloSoft Golf PoloFun Golf PoloBlade Polo Golf ShirtsShort Sleeve Golf Polo Mandarin CollarTextured Golf PoloEmbroidered Golf PolosJohnny Collar PoloGolf Pique PoloEMBROIDERED MENS GOLF POLOMesh Back Golf PoloFootJoy Lisle Self Collar Golf PoloGold Golf PoloCamo Golf PoloCropped Golf Polo",
+          "source": "brave_web"
+        },
+        {
+          "title": "MANDARIN COLLAR SHIRT\u2013 U.S. Polo Assn.",
+          "url": "https://uspoloassn.com/products/mandarin-collar-shirt-1",
+          "description": "Overview: Contrast mandarin collar. V-shape neckline. Button up front placket. Small USPA embroidered tag on inside lower front placket. Long sleeves with barrel cuffs. Vents at hem. Fit &amp; Sizing: Model: Size - S Fabric &amp; Care: Machine Wash. Imported.",
+          "source": "brave_web"
+        },
+        {
+          "title": "Premium Mandarin Collar Shirts l Hockerty - Hockerty",
+          "url": "https://www.hockerty.com/en-us/men/mandarin-collar-shirts/",
+          "description": "Every shirt is crafted to your unique body profile, so your Mandarin collar shirt <strong>fits flawlessly</strong>.",
+          "source": "brave_web"
+        },
+        {
+          "title": "Polo Haus \u2013 Men\u2019s Cotton Mix Signature Fit Mandarin Collar Long Sleeve MBLSE002 \u2013 Polo Haus Malaysia",
+          "url": "https://polohaus.com/shop/men/clothings/business-shirts/polo-haus-mens-cotton-mix-signature-fit-mandarin-collar-long-sleeve-mblse002/",
+          "description": "Ultimate Polo Tee \u00b7 Motorcycle Theme \u00b7 PL7 Active Gear \u00b7 Flag Theme \u00b7 Gifts \u00b7 Lookbook \u00b7 RM159.00 \u00b7 SKU: P1223-MBLSE002 Categories: Business Shirts, Clothings, Men, Menswear, New In, Sales \u00b7 Description \u00b7 Additional information \u00b7 Reviews (0) \u2022 Material \u2013 Cotton Mix \u00b7 \u2022 Color \u2013 Light Beige, Crimson Red, Maroon, Deep Cobalt, Black \u00b7 \u2022 Cutting \u2013 Signature Fit Long Sleeve \u00b7 \u2022 Detail \u2013 Mandarin Collar, Contrast color Horse embroidery \u00b7",
+          "source": "brave_web"
+        },
+        {
+          "title": "Chinese Collar Polo | Mandarin Slim Fit Cotton Shirt \u2013 THEGENTSEDIT",
+          "url": "https://thegentsedit.com/products/u-s-grand-chinese-collar-polo",
+          "description": "<strong>The breathable fabric ensures comfort, while the tailored fit provides a sleek silhouette</strong>. Whether you&#x27;re dressing for a casual day out or a smart-casual event, this polo offers unparalleled style and sophistication.",
+          "source": "brave_web"
+        },
+        {
+          "title": "The Maranello Contrast Collar Polo Navy - Tailored Fit \u2013 Collars & Co.",
+          "url": "https://collarsandco.com/products/the-maranello-contrast-collar-polo-navy",
+          "description": "Drawing inspiration from Italian styling, this polo features a v-neck Johnny collar with a contrasting color, short sleeves, and a <strong>tailored fit</strong>, making it easy to look refined and sophisticated all season long.",
+          "source": "brave_web"
+        },
+        {
+          "title": "Men Mandarin Collar Slim Fit Polo Tee",
+          "url": "https://oxwhite.com/products/men-mandarin-collar-slim-fit-polo-tee",
+          "description": "<strong>Designed with a sleek mandarin collar and tailored for a slim fit, this tee adds a touch of sophistication to any outfit</strong>. Perfect for dressing up or down, it&#x27;s an ideal choice for those who want a modern, polished style ...",
+          "source": "brave_web"
+        },
+        {
+          "title": "Amazon.com: Contrast Collar Polo Men",
+          "url": "https://www.amazon.com/contrast-collar-polo-men/s?k=contrast+collar+polo+men",
+          "description": "Mandarin Collar \u00b7 Spread Collar \u00b7 Band Collar \u00b7 Button Down Collar \u00b7 Camp Collar \u00b7 Collarless \u00b7 Flat Collar \u00b7 Hidden Button Down Collar \u00b7 Lapel Collar \u00b7 Point Collar \u00b7 Shawl Collar See more \u00b7 Sleeve Length \u00b7 Short Sleeve \u00b7 Long Sleeve \u00b7 Half Sleeve \u00b7 Sleeveless \u00b7 Seller \u00b7 SIWBORNE \u00b7 Amazon.com \u00b7 Dongguanshiwanyishangmaoyouxiangongsi \u00b7 xoxingysm \u00b7 MAELREG \u00b7 kepengchao See more \u00b7 Fit Type \u00b7",
+          "source": "brave_web"
+        },
+        {
+          "title": "Amazon.com: Mandarin Collar Polo",
+          "url": "https://www.amazon.com/mandarin-collar-polo/s?k=mandarin+collar+polo",
+          "description": "Amazon.com: mandarin collar polo",
+          "source": "brave_web"
+        },
+        {
+          "title": "Mandarin Polo Shirt",
+          "url": "https://www.liquidyachtwear.com/shop/ladies-yacht-crew-uniforms/polo-shirts/mandarin-polo-shirt/",
+          "description": "A cultured look turned into a fashion trend \u2013 our Mandarin Polo shirt. This shirt has a mandarin collar and <strong>a fit that gives a comfortable day on the boat</strong>.",
+          "source": "brave_web"
+        },
+        {
+          "title": "Mandarin collar polo shirt organic cotton - Black polo shirts",
+          "url": "https://www.ninesparis.com/19081-mandarin-collar-polo-shirt-organic-cotton-black.html",
+          "description": "The polo combined with the Mao ... perfect casual-chic piece. ... <strong>The cut is semi-fitted: it&#x27;s slightly tapered at the waist to avoid the potato sack effect, but not tight-fitting either</strong>....",
+          "source": "brave_web"
+        },
+        {
+          "title": "Linen Chinese Collar Polo Shirts \u2013 StudioSuits",
+          "url": "https://www.studiosuits.com/products/linen-chinese-collar-polo-shirts",
+          "description": "<strong>The custom suit fits like a glove, and the quality exceeded my expectations</strong>. The fabric, stitching, and overall craftsmanship are excellent, especially for a made-to-measure suit.",
+          "source": "brave_web"
+        },
+        {
+          "title": "Springfield Slim Polo Shirt With Mandarin Collar Dark Gray | Rustan's",
+          "url": "https://rustans.com/products/springfield-slim-polo-shirt-with-mandarin-collar-dark-gray",
+          "description": "EDITOR&#x27;S NOTE This Springfield Slim Polo Shirt With Mandarin Collar is crafted from <strong>high-quality oxford fabric</strong> and features a slim fit design with a modern mandarin collar. The chest is adorned with an elegant embroidered logo, making it the ...",
+          "source": "brave_web"
+        },
+        {
+          "title": "ZIP MANDARIN COLLAR POLO \u2013 EPNY",
+          "url": "https://epnygolf.com/products/zip-mandarin-collar-polo",
+          "description": "Tapping into timeless style using clean lines &amp; a Silver Tone Slider trim to contemporize this polo. The color Academy is Rich &amp; Sophisticated. A perfect tone between Royal &amp; Purple. Super Flattering to all Complexions. We love this style for its simplicity as well as its attention to detail.",
+          "source": "brave_web"
+        },
+        {
+          "title": "r/mensfashion on Reddit: Mandarin collar / band collar shirts that are durable which don\u2019t require an arm and a leg to buy?",
+          "url": "https://www.reddit.com/r/mensfashion/comments/1krc7g1/mandarin_collar_band_collar_shirts_that_are/",
+          "description": "<strong>Slim fit, short sleeve button down shirts</strong>...",
+          "source": "brave_web"
+        },
+        {
+          "title": "Contrast Collar Polo | Mens Polo Shirts | One Bone Brand",
+          "url": "https://onebonebrand.com/products/contrast-collar-polo-black",
+          "description": "The Features The Contrast Collar Polo is <strong>the perfect mix of classic and modern</strong>. With a crisp contrast rib collar, fitted sleeves, and just the right length, it\u2019s got that clean, confident vibe.",
+          "source": "brave_web"
+        },
+        {
+          "title": "WHATLEES Mens Short Sleeve Button Down Contrast Collar Sleeve Breathable Ribbed Knit Golf Office Polo Shirt B482-Yellow-L at Amazon Men\u2019s Clothing store",
+          "url": "https://www.amazon.com/WHATLEES-Short-Sleeve-Contrast-Collar/dp/B06XRWZGJ6",
+          "description": "Update your go-to garms with the new shapes and fits from our PIZOFF design team, from essential tees to on-point outerwear, and jeans from skinny to straight and beyond. Premium Quality, Great fabric for everyday outlook, Stylish designed and Produced by Zero Fasthion Co., LTD ... Men&#x27;s polo shirt, short sleeve, soft fabric, button style, suit for office, sport and daily life.",
+          "source": "brave_web"
+        },
+        {
+          "title": "9 Best Chinese Collar Shirts For Men On Amazon",
+          "url": "https://www.thedailyjagran.com/smart-guide/style-vault/best-chinese-collar-shirts-for-men-on-amazon-6382",
+          "description": "On the other hand, the following listed men&#x27;s Chinese collar shorts are from brands like US Polo, Symbol, etc, which are known to be the best sellers as per their customer ratings available on Amazon. It&#x27;s similar to the mandarin collar design, but here is a key difference: Chinese collar kinds of shirts give a bold look. Moreover, read below to learn more. Thomas Scott men&#x27;s shirt with a Chinese collar has a user rating of 4.2 stars on Amazon in terms of offering better fitting and quality.",
+          "source": "brave_web"
+        },
+        {
+          "title": "Mandarin Collar Shirts Get it now - Earthy Route",
+          "url": "https://earthyroute.com/collections/mandarin-shirts",
+          "description": "<strong>Superb quality cotton and very light weight</strong>. Nice fit too and my fav button down collar adds to the super style of the shirt. Also wudve preferred the short sleeves to fold inward instead of the outward style you\u2019ve got. No regrets anyways.",
+          "source": "brave_web"
+        },
+        {
+          "title": "Amazon.com: Mens Mandarin Collar Shirts",
+          "url": "https://www.amazon.com/mens-mandarin-collar-shirts/s?k=mens+mandarin+collar+shirts",
+          "description": "Amazon.com: mens mandarin collar shirts",
+          "source": "brave_web"
+        }
+      ],
+      "reviews": {
+        "amazon": [
+          "Mandarin Collar \u00b7 Spread Collar \u00b7 Band Collar \u00b7 Button Down Collar \u00b7 Camp Collar \u00b7 Collarless \u00b7 Flat Collar \u00b7 Hidden Button Down Collar \u00b7 Lapel Collar \u00b7 Point Collar \u00b7 Shawl Collar See more \u00b7 Sleeve Length \u00b7 Short Sleeve \u00b7 Long Sleeve \u00b7 Half Sleeve \u00b7 Sleeveless \u00b7 Seller \u00b7 SIWBORNE \u00b7 Amazon.com \u00b7 Dongguanshiwanyishangmaoyouxiangongsi \u00b7 xoxingysm \u00b7 MAELREG \u00b7 kepengchao See more \u00b7 Fit Type \u00b7",
+          "Amazon.com: mandarin collar polo",
+          "Update your go-to garms with the new shapes and fits from our PIZOFF design team, from essential tees to on-point outerwear, and jeans from skinny to straight and beyond. Premium Quality, Great fabric for everyday outlook, Stylish designed and Produced by Zero Fasthion Co., LTD ... Men&#x27;s polo shirt, short sleeve, soft fabric, button style, suit for office, sport and daily life.",
+          "Amazon.com: mens mandarin collar shirts"
+        ],
+        "reddit": [
+          "<strong>Slim fit, short sleeve button down shirts</strong>..."
+        ],
+        "youtube": [],
+        "general": [
+          "Ultimate Polo Tee \u00b7 Motorcycle Theme \u00b7 PL7 Active Gear \u00b7 Flag Theme \u00b7 Gifts \u00b7 Lookbook \u00b7 RM159.00 \u00b7 SKU: P1223-MBLSE002 Categories: Business Shirts, Clothings, Men, Menswear, New In, Sales \u00b7 Description \u00b7 Additional information \u00b7 Reviews (0) \u2022 Material \u2013 Cotton Mix \u00b7 \u2022 Color \u2013 Light Beige, Crimson Red, Maroon, Deep Cobalt, Black \u00b7 \u2022 Cutting \u2013 Signature Fit Long Sleeve \u00b7 \u2022 Detail \u2013 Mandarin Collar, Contrast color Horse embroidery \u00b7",
+          "On the other hand, the following listed men&#x27;s Chinese collar shorts are from brands like US Polo, Symbol, etc, which are known to be the best sellers as per their customer ratings available on Amazon. It&#x27;s similar to the mandarin collar design, but here is a key difference: Chinese collar kinds of shirts give a bold look. Moreover, read below to learn more. Thomas Scott men&#x27;s shirt with a Chinese collar has a user rating of 4.2 stars on Amazon in terms of offering better fitting and quality."
+        ]
+      },
+      "features": [
+        "Drawing inspiration from Italian styling, this polo features a v-neck Johnny collar with a contrasting color, short sleeves, and a <strong>tailored fit</strong>, making it easy to look refined and sophisticated all season long.",
+        "<strong>The custom suit fits like a glove, and the quality exceeded my expectations</strong>. The fabric, stitching, and overall craftsmanship are excellent, especially for a made-to-measure suit.",
+        "EDITOR&#x27;S NOTE This Springfield Slim Polo Shirt With Mandarin Collar is crafted from <strong>high-quality oxford fabric</strong> and features a slim fit design with a modern mandarin collar. The chest is adorned with an elegant embroidered logo, making it the ...",
+        "The Features The Contrast Collar Polo is <strong>the perfect mix of classic and modern</strong>. With a crisp contrast rib collar, fitted sleeves, and just the right length, it\u2019s got that clean, confident vibe."
+      ]
+    },
+    "competitor": {
+      "error": "No competitors found to analyze"
+    },
+    "emotional": {
+      "primary_emotion": "ASPIRATION",
+      "secondary_emotion": "BELONGING",
+      "psychological_triggers": [
+        "Desire to stand out with a modern and bold fashion choice",
+        "Need to convey a sense of style that aligns with contemporary trends while fitting in socially"
+      ],
+      "messaging_hooks": [
+        "Elevate your style effortlessly with bold, modern details.",
+        "Stand out and stay connected with a tailored look that fits in anywhere."
+      ],
+      "visual_cues": [
+        "Red base color exudes confidence and energy, appealing to those who aspire to stand out.",
+        "Mandarin collar and contrasting polka-dot details add a playful yet polished twist, making it modern and unique."
+      ]
+    },
+    "hooks": {
+      "hooks": [
+        {
+          "type": "Curiosity",
+          "text": "The fashion upgrade everyone\u2019s obsessing over\u2014but no one\u2019s talking about yet."
+        },
+        {
+          "type": "Problem-Agitation",
+          "text": "Tired of blending in with outdated styles? It's time to redefine your wardrobe."
+        },
+        {
+          "type": "Transformation",
+          "text": "Transform your look in seconds with bold, modern pieces that command attention."
+        },
+        {
+          "type": "Contrarian",
+          "text": "Who says standing out means stepping out of your comfort zone? Here's proof it doesn't."
+        },
+        {
+          "type": "Insider Secret",
+          "text": "Style insiders agree\u2014this one fashion hack is how they stay ahead of the trends."
+        }
+      ],
+      "best_hook": "The fashion upgrade everyone\u2019s obsessing over\u2014but no one\u2019s talking about yet."
+    },
+    "content": {
+      "linkedin_post": {
+        "title": "The Fashion Polo That Defines Modern Elegance",
+        "content": "Elevate your casual wardrobe with the Crimson Contrast Mandarin Collar Polo\u2014a perfect blend of bold color and sophisticated design. This tailored statement piece features a striking red base, accented navy sleeve cuffs, and a playful polka-dot inner placket. Crafted from a breathable cotton blend, it's designed for versatility, transitioning seamlessly from casual office settings to weekend social gatherings. \n\nMore than just style, this polo reflects our commitment to sustainable sourcing and expert craftsmanship, ensuring durability and timeless quality. Whether you're dressing for a smart-casual meeting or a relaxed outing, the Crimson Contrast Polo offers elevated comfort and a refined silhouette.\n\nInvest in a piece that stands out while fitting in perfectly.",
+        "hashtags": [
+          "#ModernElegance",
+          "#SustainableFashion",
+          "#TimelessStyle",
+          "#TailoredFit"
+        ]
+      },
+      "blog_post": {
+        "title": "How the Crimson Contrast Polo Redefines Casual Elegance",
+        "content": "# How the Crimson Contrast Polo Redefines Casual Elegance\n\n### A Modern Twist on the Classic Polo\nThe Crimson Contrast Mandarin Collar Polo is more than just a piece of clothing\u2014it\u2019s a statement of bold confidence and refined style. With its striking red base and navy sleeve cuffs, this polo embodies the perfect balance between energy and sophistication. \n\n### Key Features That Make It Stand Out\n- **Mandarin-style collar**: A modern update that elevates the classic polo design.\n- **Contrasting polka-dot inner placket**: Playful yet refined details that add uniqueness.\n- **Tailored fit**: Ensures a polished silhouette for all-day comfort.\n- **Breathable cotton blend**: Crafted for durability and timeless wear.\n\n### Versatility for Every Occasion\nDesigned for urban professionals and style-conscious individuals, this polo transitions effortlessly between casual office settings, smart-casual gatherings, and relaxed weekend outings. Pair it with chinos for a sharp look or jeans for a laid-back vibe\u2014it\u2019s all about versatility.\n\n### Why Invest in the Crimson Contrast Polo?\nThis piece is not just a fashion item; it\u2019s an investment in timeless quality and expert craftsmanship. The durable materials and tailored design ensure you\u2019ll wear it season after season, making it a cost-effective addition to your wardrobe.\n\n### Embrace Bold Confidence\nStand out without stepping out of your comfort zone. The Crimson Contrast Polo helps you convey a modern and bold sense of style while fitting seamlessly into contemporary trends. \n\nDiscover how this versatile polo can redefine your casual elegance.",
+        "seo_keywords": [
+          "elegant polo shirt",
+          "modern mandarin collar polo",
+          "versatile casual wear",
+          "timeless fashion piece",
+          "tailored fit polo"
+        ]
+      },
+      "meta_post": {
+        "caption": "The fashion upgrade everyone\u2019s obsessing over\u2014but no one\u2019s talking about yet. \n\nMeet the Crimson Contrast Mandarin Collar Polo: Bold red energy, sophisticated navy accents, and playful polka-dot details. Elevated style meets everyday comfort. Perfect for casual office days or weekend outings.",
+        "hashtags": [
+          "#StatementStyle",
+          "#TailoredElegance",
+          "#ModernMenswear",
+          "#TimelessCraftsmanship"
+        ]
+      }
+    },
+    "poster": {
+      "status": "success",
+      "poster_path": "D:\\Downloads\\LLM-Pr\\catalyst-ai-backend\\static\\images\\poster_66b376da.png",
+      "prompt": "A high-quality advertisement poster for 'Crimson Contrast Mandarin Collar Polo'. Context: . Mood: ASPIRATION. Headline text style: 'The fashion upgrade everyone\u2019s obsessing over\u2014but no one\u2019s talking about yet.'. Visual style: Cinematic, Vibrant, 4k resolution, professional photography."
+    },
+    "video": {
+      "video_script": {
+        "title": "The Polo That's Changing the Game",
+        "script_scenes": [
+          {
+            "seconds": "0-3",
+            "visual": "Close-up slow-motion shot of the Crimson Contrast Mandarin Collar Polo being tossed onto a sleek, minimalistic chair in a trendy, loft-style room. Bold text overlay: 'The fashion upgrade everyone\u2019s obsessing over.'",
+            "audio": "Energetic beat drop with a voiceover: 'But no one\u2019s talking about it... yet.'"
+          },
+          {
+            "seconds": "3-10",
+            "visual": "Fast cuts: 1) Model confidently walking down a city street wearing the polo. 2) Close-up of the Mandarin collar detail. 3) Transition to a rooftop party where the model stands out effortlessly among friends. 4) Model checking their reflection in a mirror, smirking.",
+            "audio": "Voiceover: 'Step up your fit game with sharp vibes and effortless style. The ultimate flex? You make it look easy.'"
+          },
+          {
+            "seconds": "10-15",
+            "visual": "Wide shot of the model tossing on sunglasses, walking away from the camera into a sunlit street. Text overlay: 'Crimson Contrast Polo. Your move.' Followed by website link and 'Shop Now' CTA button animation.",
+            "audio": "Voiceover: 'Crimson Contrast Polo. Shop now and lead the trend.' Music fades out with a satisfying beat."
+          }
+        ],
+        "video_prompt": "A Gen-Z model showcases the Crimson Contrast Mandarin Collar Polo in dynamic, trendy, high-energy settings: city streets, rooftop party, sleek interiors. The model is wearing the exact same t-shirt as the reference image. Do not change the t-shirt design, logo, or color. High fashion, cinematic lighting."
+      },
+      "video_url": "D:\\Downloads\\LLM-Pr\\catalyst-ai-backend\\static\\videos\\video_video_697ea1c7aeec8198ac83d70ec3bf47f60f2af38a8a4e2df9.mp4",
+      "cloud_url": "https://go.fastrouter.ai/api/v1/getVideoResponse",
+      "status": "completed"
+    },
+    "performance": {
+      "global_score": 35.0,
+      "platform_predictions": {
+        "linkedin": {
+          "score": 35,
+          "metrics": {
+            "predicted_ctr": "1.2%",
+            "reach_potential": "Low"
+          },
+          "strengths": [
+            "Excellent readability"
+          ],
+          "improvements": [
+            "Add a power word to the hook (e.g., 'Unlock', 'Secret')",
+            "Add a clear CTA (e.g., 'Link in bio')"
+          ]
+        },
+        "meta": {
+          "score": 35,
+          "metrics": {
+            "predicted_ctr": "1.2%",
+            "reach_potential": "Low"
+          },
+          "strengths": [
+            "Excellent readability"
+          ],
+          "improvements": [
+            "Add a power word to the hook (e.g., 'Unlock', 'Secret')",
+            "Add a clear CTA (e.g., 'Link in bio')"
+          ]
+        }
+      },
+      "analysis_version": "1.0 (Heuristic)"
+    },
+    "publishing": {
+      "linkedin": {
+        "status": "success",
+        "message": "Post published to LinkedIn",
+        "data": {
+          "id": "urn:li:share:7423526820983181312"
+        }
+      },
+      "instagram": {
+        "status": "success",
+        "message": "Published to Instagram",
+        "data": {
+          "id": "18116887951612052"
+        }
+      },
+      "facebook": {
+        "status": "success",
+        "message": "Video published to Meta",
+        "data": {
+          "id": "2556765191392579"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+*.txt
+server_output*
+test_results*
+
+# IDEs
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Application specific
+uploads/
+*.sqlite
+experiments/
+meta_debug.log
+postgres_data/
